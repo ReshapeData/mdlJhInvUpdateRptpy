@@ -1,0 +1,10 @@
+setup.py
+mdlJhInvUpdateRptpy/__init__.py
+mdlJhInvUpdateRptpy/inventory.py
+mdlJhInvUpdateRptpy/main.py
+mdlJhInvUpdateRptpy.egg-info/PKG-INFO
+mdlJhInvUpdateRptpy.egg-info/SOURCES.txt
+mdlJhInvUpdateRptpy.egg-info/dependency_links.txt
+mdlJhInvUpdateRptpy.egg-info/requires.txt
+mdlJhInvUpdateRptpy.egg-info/top_level.txt
+tests/test_stockTable_query.py
